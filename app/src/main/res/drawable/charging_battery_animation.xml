@@ -1,0 +1,10 @@
+<animation-list android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/battery_charging" android:duration="500" />
+    <item android:drawable="@drawable/battery_no_info" android:duration="200" />
+    <item android:drawable="@drawable/battery25" android:duration="200" />
+    <item android:drawable="@drawable/battery50" android:duration="200" />
+    <item android:drawable="@drawable/battery75" android:duration="200" />
+    <item android:drawable="@drawable/battery100" android:duration="200" />
+</animation-list>

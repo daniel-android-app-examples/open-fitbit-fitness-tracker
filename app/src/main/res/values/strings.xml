@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartBracelet</string>
+    <string name="data">Data</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="scan">Scan</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="set_time">Set time</string>
+    <string name="sync_data">Sync current data</string>
+    <string name="set_userinfo">Set user info</string>
+    <string name="set_vir">Vibrate 4 times</string>
+    <string name="set_photo">Set photo</string>
+    <string name="set_idletime">Set sedentary reminder alarm every 10 sec for one minute</string>
+    <string name="set_sleep">Set sleep</string>
+    <string name="read_battery">Read battery</string>
+    <string name="read_deviceinfo">Read device info</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="openheart">Turn On heart rate only</string>
+    <string name="closeheart">Close heart rate only</string>
+    <string name="set_autoheart">Set autoheart</string>
+    <string name="set_fuzhu">Set fuzhu</string>
+    <string name="set_showmode">Change hour format</string>
+    <string name="getdata">Get data from remote device for this day</string>
+    <string name="set_parameters">Set parameters</string>
+    <string name="send_call_notification">Send notification</string>
+    <string name="heart_start_tset">Heart start tset</string>
+    <string name="sync">Sync</string>
+    <string name="read_fw">Read fw</string>
+</resources>
