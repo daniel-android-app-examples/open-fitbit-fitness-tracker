@@ -77,6 +77,8 @@ targetSdkVersion="19"
 
 Charts:
 https://github.com/PhilJay/MPAndroidChart
+
+https://www.quora.com/How-can-I-add-my-Android-studio-project-into-an-organization-owned-by-me-in-GitHub
 */
 
 import com.github.mikephil.charting.charts.LineChart;
