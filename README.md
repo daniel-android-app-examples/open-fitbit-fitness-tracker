@@ -1,5 +1,7 @@
 # Open Fitbit Fitness Tracker Basic Example
 
+![Image](https://github.com/daniel-android-app-examples/open-fitbit-fitness-tracker-basicexample/blob/master/app/src/main/res/drawable/braceletv1.png)
+
 If you want to create your own App follow this guidelines.
 
 ## Reference .jar libraries
